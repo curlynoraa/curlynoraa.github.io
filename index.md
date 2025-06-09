@@ -1,0 +1,3 @@
+# Welcome to Eleanor's Blog!
+
+This is my new website — stay tuned for updates...
