@@ -1,3 +1,8 @@
-# Welcome to Eleanor's Blog!
+---
+layout: home
+title: 
+---
 
-This is my new website — stay tuned for updates...
+# Welcome to Eleanor's blog.
+
+This is my website! More coming soon.
