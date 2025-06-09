@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: ""
 ---
 
 # Welcome to Eleanor's blog.
